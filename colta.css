@@ -1,0 +1,26 @@
+ h1{
+   font-style: italic;
+   font-family: fantasy;
+   font-size:100px;
+   color:blue;
+   Text-align:center;
+   font-style:italics;
+   font-weight:800;
+}
+body{
+  background-image:url ("cad.jfif");
+}
+p{
+  font-size: 30px;
+  font-style:italics;
+  font-weight:100;
+}
+nav a{
+  display:inline-block;
+  padding: 20px 20px;
+  color:indigo
+}
+nav a:hover{
+  background-color:pink:
+  background-position:right;
+}
